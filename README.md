@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @caiolacoste
-- 👀 I’m interested in programming and physics simutation.
-- 💞️ I’m looking to collaborate on automated robots and video games.
+- 👋 Hi, I’m @caiolacoste, Electrical Engineer graduated in Federal University of Rio de Janeiro (UFRJ);
+- 👀 I’m interested in Control Systems, Robotics and Automation.
 - 📫 How to reach me: caio.lacoste@poli.ufrj.br
 
 <!---
